@@ -1,4 +1,2 @@
 # Ancestral-Sequence-Uncertainty
-'''
-This GitHub contains all of the files that will be created during ASR on the family of GFP taken from _aequorea victoria_
-'''
+This GitHub contains all of the files that will be created during ASR on the family of GFP taken from _aequorea victoria_. It is designed such that a user can learn the ASR workflow on this model protien and double-check all of thier files with the ones in this GitHub. Results will not be identical, but these files can still serve as a useful guide for what file types to expect and how to handle them. See the Wiki for a description of each file at its place in the workflow.
